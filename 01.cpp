@@ -6,7 +6,8 @@ const int SIZE = 5; // input size.
 
 int main(void)
 {
-    int n[SIZE] = {0,0,0,0,0};
+    int n[SIZE] = 
+{0,0,0,0,0};
     int count = 0;
 
     for (int i=0; i<5;i++) {
